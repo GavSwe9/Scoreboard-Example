@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.GameContainer {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  box-shadow: #282c34 0px 0px 4px;
+  border-radius: 5px;
+}
+
+.TeamContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.TeamLogo {
+  width: 25px;
+  height: 25px;
+}
