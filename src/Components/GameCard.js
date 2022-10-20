@@ -21,7 +21,6 @@ export function GameCard(props) {
     if (loading) {
         return (
             <div>
-                Loading...
             </div>
         )
     }

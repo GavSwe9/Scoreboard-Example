@@ -56,3 +56,18 @@
   width: 25px;
   height: 25px;
 }
+
+.DatePickerContainer {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: 25px;
+}
+
+.LoadingContainer {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
